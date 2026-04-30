@@ -1,7 +1,8 @@
 # SD-1
 # Report -2
 # 1
-public class ArrayStore {
+
+      public class ArrayStore {
     public static void main(String[] args) {
         int[] arr = {10, 20, 30, 40, 50};
 
@@ -12,7 +13,8 @@ public class ArrayStore {
 }
 
 # 2
-public class LargestNumber {
+
+      public class LargestNumber {
     public static void main(String[] args) {
         int[] arr = {12, 45, 7, 89, 23};
 
@@ -28,7 +30,7 @@ public class LargestNumber {
     }
 }
 # 3
-public class SmallestNumber {
+      public class SmallestNumber {
     public static void main(String[] args) {
         int[] arr = {12, 45, 7, 89, 23};
 
